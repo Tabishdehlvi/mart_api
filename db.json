@@ -1,0 +1,48 @@
+{
+  "seller": [
+    {
+      "name": "Tabish",
+      "email": "tabish@gmail.com",
+      "password": "Tabish@1",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "name": "Vivo Y91",
+      "price": "27000",
+      "color": "Black",
+      "category": "Mobile",
+      "description": "Good Mobile",
+      "image": "https://3.bp.blogspot.com/-i7K97jhbCt4/W_dtL3YOsfI/AAAAAAABE1M/MaMoGXViY80C_gSXR3l7neFcGD5UNdmLACEwYBhgL/s1600/20181119_175601.png",
+      "id": 1
+    },
+    {
+      "name": "Moto G5",
+      "price": "22000",
+      "color": "Gold",
+      "category": "Mobile",
+      "description": "Perfect Mobile",
+      "image": "https://www.gadgetdiary.com/wp-content/uploads/2017/03/Sound.jpg",
+      "id": 2
+    },
+    {
+      "name": "Samsung Galaxy S20",
+      "price": "250000",
+      "color": "Black",
+      "category": "Samsung Mobile",
+      "description": "Good Mobile ",
+      "image": "https://www.soyacincau.com/wp-content/uploads/2020/01/200124-samsung-galaxy-s20-plus.jpg",
+      "id": 3
+    },
+    {
+      "name": "Oppo A5",
+      "price": "40000",
+      "color": "Blue",
+      "category": "Oppo Mobile",
+      "description": "Mobile",
+      "image": "https://images.fonearena.com/blog/wp-content/uploads/2018/07/OPPO-A5.jpg",
+      "id": 4
+    }
+  ]
+}
